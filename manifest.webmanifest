@@ -1,0 +1,10 @@
+{
+  "name": "沼継ぎの一族",
+  "short_name": "沼継ぎ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101712",
+  "theme_color": "#17231c",
+  "orientation": "landscape",
+  "icons": []
+}
